@@ -1,4 +1,3 @@
-// Import necessary utilities for Next.js API route
 import { NextRequest, NextResponse } from 'next/server';
 import { getAllProjects, getProjectBySlug } from '@/lib/data';
 
