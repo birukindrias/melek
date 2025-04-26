@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/projects/route": "app/api/projects/route.js",
+  "/info/page": "app/info/page.js",
+  "/page": "app/page.js",
+  "/projects/[slug]/page": "app/projects/[slug]/page.js",
+  "/services/page": "app/services/page.js",
+  "/location/page": "app/location/page.js",
+  "/api/dashboard/page": "app/api/dashboard/page.js",
+  "/projects/addis-business-directory/page": "app/projects/addis-business-directory/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/projects/ethiopian-tourism-portal/page": "app/projects/ethiopian-tourism-portal/page.js",
+  "/projects/habesha-market-campaign/page": "app/projects/habesha-market-campaign/page.js"
+}
