@@ -1,0 +1,14 @@
+{
+  "/api/projects/route": "/api/projects",
+  "/_not-found/page": "/_not-found",
+  "/info/page": "/info",
+  "/page": "/",
+  "/projects/[slug]/page": "/projects/[slug]",
+  "/services/page": "/services",
+  "/api/dashboard/page": "/api/dashboard",
+  "/location/page": "/location",
+  "/projects/addis-business-directory/page": "/projects/addis-business-directory",
+  "/projects/page": "/projects",
+  "/projects/habesha-market-campaign/page": "/projects/habesha-market-campaign",
+  "/projects/ethiopian-tourism-portal/page": "/projects/ethiopian-tourism-portal"
+}
