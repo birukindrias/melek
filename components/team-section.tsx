@@ -35,7 +35,7 @@ const teamMembers = [
   },
   {
     name: "Biruk Endrias",
-    role: "Co-Founder & CTO",
+    role: "CTO",
     bio: "Biruk is a seasoned software engineer with a passion for technology and innovation. He is responsible for overseeing the development of Meleket's digital platforms, ensuring they meet the highest standards of quality and performance.",
     image:
       "/images/bk.jpg",

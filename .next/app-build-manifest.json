@@ -52,7 +52,7 @@
       "static/chunks/527-bb281661abadd5b9.js",
       "static/chunks/455-335f2050377a81aa.js",
       "static/chunks/464-819f8440be88c1f1.js",
-      "static/chunks/app/page-6ee2df00440431fd.js"
+      "static/chunks/app/page-b50a96b00db876a8.js"
     ],
     "/projects/[slug]/page": [
       "static/chunks/webpack-71b741fadc5d4d1d.js",
@@ -72,20 +72,29 @@
       "static/chunks/455-335f2050377a81aa.js",
       "static/chunks/app/services/page-f8ac9a60cc58d22c.js"
     ],
-    "/api/dashboard/page": [
-      "static/chunks/webpack-71b741fadc5d4d1d.js",
-      "static/chunks/4bd1b696-ed246e7843a322cc.js",
-      "static/chunks/684-c72da7197f1a3749.js",
-      "static/chunks/main-app-47ec1ab573e36c93.js",
-      "static/chunks/874-15a3df30cc819263.js",
-      "static/chunks/app/api/dashboard/page-e62dbafe08c609b5.js"
-    ],
     "/location/page": [
       "static/chunks/webpack-71b741fadc5d4d1d.js",
       "static/chunks/4bd1b696-ed246e7843a322cc.js",
       "static/chunks/684-c72da7197f1a3749.js",
       "static/chunks/main-app-47ec1ab573e36c93.js",
       "static/chunks/app/location/page-c1d18514512ca83a.js"
+    ],
+    "/projects/ethiopian-tourism-portal/page": [
+      "static/chunks/webpack-71b741fadc5d4d1d.js",
+      "static/chunks/4bd1b696-ed246e7843a322cc.js",
+      "static/chunks/684-c72da7197f1a3749.js",
+      "static/chunks/main-app-47ec1ab573e36c93.js",
+      "static/chunks/874-15a3df30cc819263.js",
+      "static/chunks/527-bb281661abadd5b9.js",
+      "static/chunks/app/projects/ethiopian-tourism-portal/page-73cb2d736c3d6203.js"
+    ],
+    "/projects/page": [
+      "static/chunks/webpack-71b741fadc5d4d1d.js",
+      "static/chunks/4bd1b696-ed246e7843a322cc.js",
+      "static/chunks/684-c72da7197f1a3749.js",
+      "static/chunks/main-app-47ec1ab573e36c93.js",
+      "static/chunks/874-15a3df30cc819263.js",
+      "static/chunks/app/projects/page-141bc175bb28379e.js"
     ],
     "/projects/addis-business-directory/page": [
       "static/chunks/webpack-71b741fadc5d4d1d.js",
@@ -96,13 +105,13 @@
       "static/chunks/527-bb281661abadd5b9.js",
       "static/chunks/app/projects/addis-business-directory/page-76d0e1e370cff44b.js"
     ],
-    "/projects/page": [
+    "/api/dashboard/page": [
       "static/chunks/webpack-71b741fadc5d4d1d.js",
       "static/chunks/4bd1b696-ed246e7843a322cc.js",
       "static/chunks/684-c72da7197f1a3749.js",
       "static/chunks/main-app-47ec1ab573e36c93.js",
       "static/chunks/874-15a3df30cc819263.js",
-      "static/chunks/app/projects/page-141bc175bb28379e.js"
+      "static/chunks/app/api/dashboard/page-e62dbafe08c609b5.js"
     ],
     "/projects/habesha-market-campaign/page": [
       "static/chunks/webpack-71b741fadc5d4d1d.js",
@@ -112,15 +121,6 @@
       "static/chunks/874-15a3df30cc819263.js",
       "static/chunks/527-bb281661abadd5b9.js",
       "static/chunks/app/projects/habesha-market-campaign/page-cab474a9cf3f96b4.js"
-    ],
-    "/projects/ethiopian-tourism-portal/page": [
-      "static/chunks/webpack-71b741fadc5d4d1d.js",
-      "static/chunks/4bd1b696-ed246e7843a322cc.js",
-      "static/chunks/684-c72da7197f1a3749.js",
-      "static/chunks/main-app-47ec1ab573e36c93.js",
-      "static/chunks/874-15a3df30cc819263.js",
-      "static/chunks/527-bb281661abadd5b9.js",
-      "static/chunks/app/projects/ethiopian-tourism-portal/page-73cb2d736c3d6203.js"
     ]
   }
 }

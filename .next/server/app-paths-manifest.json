@@ -5,10 +5,10 @@
   "/page": "app/page.js",
   "/projects/[slug]/page": "app/projects/[slug]/page.js",
   "/services/page": "app/services/page.js",
-  "/api/dashboard/page": "app/api/dashboard/page.js",
   "/location/page": "app/location/page.js",
-  "/projects/addis-business-directory/page": "app/projects/addis-business-directory/page.js",
+  "/projects/ethiopian-tourism-portal/page": "app/projects/ethiopian-tourism-portal/page.js",
   "/projects/page": "app/projects/page.js",
-  "/projects/habesha-market-campaign/page": "app/projects/habesha-market-campaign/page.js",
-  "/projects/ethiopian-tourism-portal/page": "app/projects/ethiopian-tourism-portal/page.js"
+  "/projects/addis-business-directory/page": "app/projects/addis-business-directory/page.js",
+  "/api/dashboard/page": "app/api/dashboard/page.js",
+  "/projects/habesha-market-campaign/page": "app/projects/habesha-market-campaign/page.js"
 }
