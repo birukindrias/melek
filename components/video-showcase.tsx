@@ -34,7 +34,7 @@ export function VideoShowcase() {
       description:
         "Coverage of our latest product launch event in Addis Ababa showcasing Meleket's expanding services",
       thumbnail: "/images/teeth.png",
-      video: "/videos/D-crown procri.mp4",
+      video: "https://iambiruk.com/bk/D-crown%20procri.mp4",
       platform: "TikTok",
       duration: "2:00",
     },
@@ -52,7 +52,7 @@ export function VideoShowcase() {
       description:
         "A quick overview of Meleket's services and how they're transforming access to information",
       thumbnail: "/images/coffee-cup.png",
-      video: "/videos/oI2Cy3iduIBLh5QATcNofZiOzuEOI3SgkEu2yA.mp4",
+      video: "https://iambiruk.com/bk/oI2Cy3iduIBLh5QATcNofZiOzuEOI3SgkEu2yA.mp4",
       platform: "Instagram",
       duration: "0:45",
     },
@@ -61,7 +61,7 @@ export function VideoShowcase() {
       description:
         "Highlights from our community outreach program helping local residents access essential services",
       thumbnail: "/images/fili.png",
-      video: "/videos/sunday breackfast.mp4",
+      video: "https://iambiruk.com/bk/sunday%20breackfast.mp4",
       platform: "Facebook",
       duration: "3:45",
     },
