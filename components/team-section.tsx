@@ -20,7 +20,7 @@ const teamMembers = [
     role: "Founder & CEO",
     bio: "With over 4 years of experience in IT and telecommunications, Abebe Biruk Meleket's vision and strategy. His deep understanding of the Ethiopian market has been instrumental in positioning the company as a leader in the industry.",
     image:
-      "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2024-11-18_14-43-26.jpg-LEvgAnkxMcnEN7reB65En13sFzAA7o.jpeg",
+      "/images/l.jpg",
     expertise: [
       "Strategic Planning",
       "Business Development",
