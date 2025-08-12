@@ -1,7 +1,7 @@
 {
   "version": 4,
   "routes": {
-    "/api/dashboard": {
+    "/location": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -14,32 +14,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/api/dashboard",
-      "dataRoute": "/api/dashboard.rsc",
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/info": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "Next-Action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/info",
-      "dataRoute": "/info.rsc",
+      "srcRoute": "/location",
+      "dataRoute": "/location.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -73,7 +49,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/projects/addis-business-directory": {
+    "/projects": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -86,8 +62,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/projects/addis-business-directory",
-      "dataRoute": "/projects/addis-business-directory.rsc",
+      "srcRoute": "/projects",
+      "dataRoute": "/projects.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -121,7 +97,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/projects": {
+    "/services": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -134,8 +110,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/projects",
-      "dataRoute": "/projects.rsc",
+      "srcRoute": "/services",
+      "dataRoute": "/services.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -169,7 +145,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/location": {
+    "/info": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -182,8 +158,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/location",
-      "dataRoute": "/location.rsc",
+      "srcRoute": "/info",
+      "dataRoute": "/info.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -193,7 +169,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/services": {
+    "/projects/addis-business-directory": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -206,8 +182,32 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/services",
-      "dataRoute": "/services.rsc",
+      "srcRoute": "/projects/addis-business-directory",
+      "dataRoute": "/projects/addis-business-directory.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/api/dashboard": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "Next-Action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/api/dashboard",
+      "dataRoute": "/api/dashboard.rsc",
       "allowHeader": [
         "host",
         "x-matched-path",
@@ -221,8 +221,8 @@
   "dynamicRoutes": {},
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "ab9e5ef2969a5abe441df6bf6955ac8b",
-    "previewModeSigningKey": "c81327749df4052894f95879b25781d06c4bb8a131e4026f566af88046ef315d",
-    "previewModeEncryptionKey": "82443ac69c8144b82305e1fddff13e04a2ca7f9e7ebadf946debf60fa5a88f4e"
+    "previewModeId": "ffb9a481f1a2a784f46d2a1a7a55fba3",
+    "previewModeSigningKey": "30796573c86f856216102a24a26d2d04b5b517753bf36fdcad935854b142c0a9",
+    "previewModeEncryptionKey": "50e8154637581958ceba53796c1ef21edf7c14320036c292b8e326265c143f6c"
   }
 }

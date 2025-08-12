@@ -9,6 +9,6 @@
   "/api/dashboard/page": "/api/dashboard",
   "/projects/ethiopian-tourism-portal/page": "/projects/ethiopian-tourism-portal",
   "/projects/addis-business-directory/page": "/projects/addis-business-directory",
-  "/projects/page": "/projects",
-  "/projects/habesha-market-campaign/page": "/projects/habesha-market-campaign"
+  "/projects/habesha-market-campaign/page": "/projects/habesha-market-campaign",
+  "/projects/page": "/projects"
 }

@@ -52,7 +52,7 @@
       "static/chunks/274-327cda64791e5957.js",
       "static/chunks/455-335f2050377a81aa.js",
       "static/chunks/464-b0d13d1229caec1a.js",
-      "static/chunks/app/page-e3674e6b1e3790a7.js"
+      "static/chunks/app/page-941ee41e7bfcc617.js"
     ],
     "/projects/[slug]/page": [
       "static/chunks/webpack-71b741fadc5d4d1d.js",
@@ -105,14 +105,6 @@
       "static/chunks/274-327cda64791e5957.js",
       "static/chunks/app/projects/addis-business-directory/page-6688db3ea8e159c8.js"
     ],
-    "/projects/page": [
-      "static/chunks/webpack-71b741fadc5d4d1d.js",
-      "static/chunks/4bd1b696-ed246e7843a322cc.js",
-      "static/chunks/684-c72da7197f1a3749.js",
-      "static/chunks/main-app-096165a40221fa4f.js",
-      "static/chunks/874-15a3df30cc819263.js",
-      "static/chunks/app/projects/page-40da9773169c1f00.js"
-    ],
     "/projects/habesha-market-campaign/page": [
       "static/chunks/webpack-71b741fadc5d4d1d.js",
       "static/chunks/4bd1b696-ed246e7843a322cc.js",
@@ -121,6 +113,14 @@
       "static/chunks/874-15a3df30cc819263.js",
       "static/chunks/274-327cda64791e5957.js",
       "static/chunks/app/projects/habesha-market-campaign/page-2fd123b46fa09989.js"
+    ],
+    "/projects/page": [
+      "static/chunks/webpack-71b741fadc5d4d1d.js",
+      "static/chunks/4bd1b696-ed246e7843a322cc.js",
+      "static/chunks/684-c72da7197f1a3749.js",
+      "static/chunks/main-app-096165a40221fa4f.js",
+      "static/chunks/874-15a3df30cc819263.js",
+      "static/chunks/app/projects/page-40da9773169c1f00.js"
     ]
   }
 }
