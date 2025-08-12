@@ -18,7 +18,7 @@ const teamMembers = [
   {
     name: "Biruk Getachew",
     role: "Founder & CEO",
-    bio: "With over 4 years of experience in IT and telecommunications, Abebe leads Meleket's vision and strategy. His deep understanding of the Ethiopian market has been instrumental in positioning the company as a leader in the industry.",
+    bio: "With over 4 years of experience in IT and telecommunications, Abebe Biruk Meleket's vision and strategy. His deep understanding of the Ethiopian market has been instrumental in positioning the company as a leader in the industry.",
     image:
       "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2024-11-18_14-43-26.jpg-LEvgAnkxMcnEN7reB65En13sFzAA7o.jpeg",
     expertise: [
@@ -36,7 +36,8 @@ const teamMembers = [
   {
     name: "Biruk Endrias",
     role: "CTO",
-    bio: "Biruk is a seasoned software engineer with a passion for technology and innovation. He is responsible for overseeing the development of Meleket's digital platforms, ensuring they meet the highest standards of quality and performance.",
+    
+    bio: "CTO of Meleket Tech Biruk Endrias, a full-stack architect and co-founder of Meleket Tech, drives innovation through cutting-edge software solutions. With over seven years of experience, he crafts high-performance web ecosystems and leads the development of scalable platforms like the Meleket Android App. A master of Laravel, Node.js, Python, and more, Biruk turns code into transformative solutions, shaping the future of technology at Meleket Tech.",
     image:
       "/images/bk.jpg",
     expertise: [
